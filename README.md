@@ -9,7 +9,6 @@ Each section has its own folder, and inside each folder, you'll find solutions t
 
 - [Course Overview](#course-overview)
 - [Structure](#structure)
-- [Sections and Exercises](#sections-and-exercises)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
